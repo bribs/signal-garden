@@ -1,4 +1,3 @@
-import './style.css'
 import { connectedTiles as findConnectedTiles, isSolved as checkSolved } from './connectedTiles.js'
 
 const size = 5
